@@ -1,0 +1,3 @@
+This is a secondary file.
+
+For the purpose of testing merging branches
