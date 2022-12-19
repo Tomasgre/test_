@@ -1,3 +1,5 @@
 This a second file in an attempt to learn how to merge branches on git
 
 Here I am adding a new feature for the new branch called: new_feature
+
+Here I am adding a second new feature to the branch called: new feature
