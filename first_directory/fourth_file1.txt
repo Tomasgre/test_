@@ -5,3 +5,5 @@ This is an attempt to practice merge without fast foward merging
 The idea is that when there a no new commit on the main branch want something to be merge in it, when we do merge it will just do another line with a commit, but it woon't be a new commit. 
 
 however, in this case I want to test how to force git actually do a real merge , even if no new commit were made on the main brach 
+
+Here I am just adding extra text for testing merging branches
