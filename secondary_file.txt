@@ -1,3 +1,6 @@
 This is a secondary file.
 
 For the purpose of testing merging branches
+
+
+adding some text to be stored on seo_title branch
