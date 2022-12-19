@@ -1,0 +1,10 @@
+This a foruth file 
+
+
+I will add the change above to the commit in branch seo_title and 
+then merge it with the master branch
+
+I am going to check the differences between the first commit of this file, and the added line of the second commit of this file
+
+
+
