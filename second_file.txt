@@ -1,0 +1,1 @@
+This a second file in an attempt to learn how to merge branches on git
